@@ -2,6 +2,14 @@
 
 一个零依赖、无需构建、可直接打开 HTML 的竖屏小游戏模板。附完整示例 **《今晚别打烊》**：接手一家午夜便利店，用 14 次选择度过 7 个夜晚，管理资金、精力和口碑，遇见常客和一只橘猫。
 
+## 在线试玩
+
+示例游戏已公开发布：
+
+- [BilibiliToy](https://www.bilibili.com/toy/midnight-mart/index.html)
+- [VibeHub](https://gamesvibe.app/play/uvsCVlW3xG4b-pEiCJr2e)
+
+
 ## 运行
 
 直接打开 `index.html` 玩示例；打开 `template/index.html` 看最小模板。也可以在目录中运行：
@@ -49,7 +57,7 @@ python3 -m http.server 8032
 
 ## 发布
 
-将项目作为静态 HTML 作品使用。当前仅开发与 GitHub 交付；BilibiliToy、VibeHub 发布待作者亲自确认后操作。
+将项目作为静态 HTML 作品使用。示例游戏已上线 BilibiliToy 与 VibeHub。
 
 ## 许可
 
